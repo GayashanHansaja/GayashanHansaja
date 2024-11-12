@@ -1,17 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Gayashan</h1>
-<h3 align="center">Aspiring Mobile & Web Developer | Passionate About Learning and Growth</h3>
+<h3 align="center">Aspiring Mobile & Web Developer | Passionate About React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayashan&label=Profile%20views&color=0e75b6&style=flat" alt="gayashan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayashan" alt="gayashan" /></a> </p>
 
-- 🔭 I’m currently working on **FarmCart**
+- 🔭 I’m currently working on **Java Script learning**
 
 - 🌱 I’m currently learning **React Native, Java, Python**
 
-- 🎓 **SLIIT Student | Open to Internships in Development**
+- 🎓 **SLIIT Student**
 
-- 💬 Ask me about **JavaScript, React, Python, and more!**
+- 💬 Ask me about **JavaScript, React, Java, and more!**
 
 - 📫 Reach me at **hansagayashan7@gmail.com**
 
