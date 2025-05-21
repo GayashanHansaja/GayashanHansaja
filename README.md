@@ -9,7 +9,7 @@
 
 - 🎓 **SLIIT Student**
 
-- 💬 Ask me about **JavaScript, React, Java, and more!**
+- 💬 Ask me about **Java, React, JavaScript, and more!**
 
 - 📫 Reach me at **hansagayashan7@gmail.com**
 
