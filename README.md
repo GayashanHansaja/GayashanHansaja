@@ -57,5 +57,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GayashanHansaja&theme=github-dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GayashanHansaja&theme=dark" alt="GitHub Streak" />
 </p>
+
