@@ -1,17 +1,21 @@
 <h1 align="center">It's me, Gayashan 😉</h1>
 <h3 align="center">Full stack & Java developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GayashanHansaja" alt="gayashan" /></a> </p>
+<p align="center">
+  <a href="https://github.com/GayashanHansaja">
+    <img src="https://github-profile-trophy.vercel.app/?username=GayashanHansaja&theme=onedark&row=1&column=6" alt="Trophies" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Java learning**
+-  I’m currently working on **Java learning**
 
-- 🌱 I’m currently learning **Java, React**
+-  I’m currently learning **Java, React**
 
-- 🎓 **SLIIT Student**
+-  **SLIIT Student**
 
-- 💬 Ask me about **Java, React, JavaScript, and more!**
+-  Ask me about **Java, React, JavaScript, SQL and more!**
 
-- 📫 Reach me at **hansagayashan7@gmail.com**
+-  Reach me at **hansagayashan7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +29,7 @@
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -46,6 +51,11 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GayashanHansaja&show_icons=true&locale=en&layout=compact" alt="gayashan" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayashanHansaja&layout=compact&theme=github_dark" alt="Top Languages" height="180"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GayashanHansaja&" alt="gayashan" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GayashanHansaja&theme=github-dark" alt="Streak Stats" />
+</p>
