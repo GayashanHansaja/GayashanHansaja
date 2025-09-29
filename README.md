@@ -1,12 +1,6 @@
 <h1 align="center">It's me, Gayashan 😉</h1>
 <h3 align="center">Full stack & Java developer</h3>
 
-<p align="center">
-  <a href="https://github.com/GayashanHansaja">
-    <img src="https://github-profile-trophy.vercel.app/?username=GayashanHansaja&theme=onedark&row=1&column=6" alt="Trophies" />
-  </a>
-</p>
-
 -  I’m currently working on **Java learning**
 
 -  I’m currently learning **Java, React**
