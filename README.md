@@ -1,5 +1,5 @@
 <h1 align="center">It's me, Gayashan 😉</h1>
-<h3 align="center">Full stack & Java developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 -  I’m currently working on **Java learning**
 
